@@ -613,5 +613,6 @@ min-height:calc(100vh - 62px);
     background: #0071a5;
     mix-blend-mode: overlay;
     z-index: -5;
+    overflow: hidden;
   }
 }
